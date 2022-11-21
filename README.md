@@ -4,7 +4,7 @@
 This repository contains a small SwiftUI project and playgrounds for learning basics of Swift.
 
 
-SwiftUI project is a game about cards, a player and cpu choose a random card and the one who chooses a bigger number gets +1 point. 
+SwiftUI project is a game about cards, a player and cpu choose a random card and the one who chooses a card with bigger number gets +1 point. 
 
 
 There are two playgrounds in project, one is for variables, constants and for functions, other playground is about using structures in Swift and creating an instance of them.
